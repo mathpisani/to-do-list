@@ -8,4 +8,4 @@
 Projeto desenvolvido utilizando as seguintes tecnologias HTML, CSS, JavaScript, Git e GitHub.
 
 ## 🏷️ Layout
-Você pode visualizar o layout do projeto através [desse link](https://mathpisani.github.io/lista-de-livros).
+Você pode visualizar o layout do projeto através [desse link](https://mathpisani.github.io/to-do-list).
